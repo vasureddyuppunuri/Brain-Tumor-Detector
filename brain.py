@@ -1,5 +1,5 @@
 import os
-import cv2
+import opencv
 import numpy as np
 import streamlit as st
 from tensorflow.keras.models import Sequential, load_model
